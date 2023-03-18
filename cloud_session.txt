@@ -28,11 +28,11 @@ step 5: get the db environment variables, which we have mentioned inside
 the application.properties file from the mysql instance variables tab.
 
 
-DB_HOST=containers-us-west-200.railway.app
+DB_HOST=containers-us-west-115.railway.app
 DB_NAME=railway
-DB_PORT=7155
+DB_PORT=7152
 DB_USERNAME=root
-DB_PASSWORD=DwzV0MOysUoBLmCuGa7l
+DB_PASSWORD=l9PNQSH8RALzMQkHaPEY
 
 
 step6: create an application inside the Railway cloud from github repository.
